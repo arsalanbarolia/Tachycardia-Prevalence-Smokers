@@ -2,6 +2,8 @@
 
 # Higher Tachycardia Prevalence in a Smoker’s Pacemaker
 
+> The full research report can be viewed [here.](files/Tachycardia-Prevalence-in-Pacemaker.pdf)
+
 ### Table of Contents
 
 - [Abstract](#abstract)
@@ -17,7 +19,6 @@ Pacemakers, for many, is an essential implantable machine that helps keep one al
 
 </p>
 
-> The full research report can be viewed [here.](files/Tachycardia-Prevalence-in-Pacemaker.pdf)
 
 [Back To The Top](#project)
 
@@ -27,9 +28,9 @@ Pacemakers, for many, is an essential implantable machine that helps keep one al
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
